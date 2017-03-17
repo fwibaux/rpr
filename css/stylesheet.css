@@ -1,0 +1,48 @@
+body {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 14px;
+
+  background-color: #fefecb;
+}
+
+#logo {
+  width:450px;
+  padding-top: 16px;
+  padding-bottom: 20px;
+}
+#vitrine {
+  width: 510px;
+  padding-top: 16px;
+  padding-bottom: 10px;
+ }
+
+@media only screen and (max-width: 500px) {
+    #vitrine {
+      width: 100%;
+    }
+}
+
+
+.paragraphe {
+  width: 85px;
+}
+
+p {
+  margin-bottom: 0px
+}
+
+#reservation {
+  padding-bottom: 10px;
+}
+
+.footer {
+  font-size: 10px;
+  font-family: Georgia;
+  color: black;
+  padding-top: 10px;
+}
+
+.fa-heart {
+  color:red;
+}
