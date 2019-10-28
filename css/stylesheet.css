@@ -47,6 +47,11 @@ p {
   color:red;
 }
 
+.btn {
+  margin: 16px        !important;
+  /*font-weight: bolder !important;*/
+}
+
 #address a {
   text-decoration: none;
   color: black        !important;
